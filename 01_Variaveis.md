@@ -1,4 +1,5 @@
 ####Declarando Variáveis:
+---
 
 ######JavaScript
 ```javascript
