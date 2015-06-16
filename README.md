@@ -7,4 +7,19 @@
 
 ---
 
+###JavaScript
+```javascript
+var variavel
+```
+
+###PHP
+```php
+$variavel
+```
+
+###Python
+```python
+variavel
+```
+
 
