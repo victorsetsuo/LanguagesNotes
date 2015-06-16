@@ -14,3 +14,7 @@ $nome_da_variavel;
 ```python
 nome_da_variavel
 ```
+
+---
+
+
