@@ -4,8 +4,6 @@
 - HTML / CSS
 
 ---
-
----
 - JavaScript
 - PHP
 - Python
