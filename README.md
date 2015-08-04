@@ -5,10 +5,14 @@
 
 ---
 - JavaScript
-
-![JS](http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/082014/js1_0.png?itok=BqOjTfHU)
 - PHP
 - Python
 
 ---
 
+![HTML](https://s3.amazonaws.com/codecademy-images/web.png)
+![JS](https://s3.amazonaws.com/codecademy-images/javascript.png)
+![JQUERY](https://s3.amazonaws.com/codecademy-images/jquery.png)
+![PHP](https://s3.amazonaws.com/codecademy-images/php.png)
+![PYTHON](https://s3.amazonaws.com/codecademy-images/python.png)
+![RUBY](https://s3.amazonaws.com/codecademy-images/ruby.png)
