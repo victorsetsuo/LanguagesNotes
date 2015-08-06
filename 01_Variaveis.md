@@ -12,7 +12,7 @@ $nome_da_variavel;
 ```
 
 ######Python
-```text
+```python
 nome_da_variavel
 ```
 
