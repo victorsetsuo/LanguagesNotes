@@ -2,7 +2,7 @@
 ---
 
 ######JavaScript
-```javascript
+``` javascript
 var nome_da_variavel;
 
 ```
