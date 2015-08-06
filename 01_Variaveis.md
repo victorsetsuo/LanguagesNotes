@@ -12,10 +12,13 @@ $nome_da_variavel;
 ```
 
 ######Python
-```python
+```text
 nome_da_variavel
 ```
 
+######Ruby
+```ruby
+```
 ---
 
 
