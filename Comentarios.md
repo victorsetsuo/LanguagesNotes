@@ -1,6 +1,7 @@
 ####Comentarios:
 ---
 ######Ruby
+```ruby
 #Comentario de UMA LINHAS
 
 =begin
