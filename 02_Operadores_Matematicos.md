@@ -2,12 +2,12 @@
 ---
 ######Ruby
 
--Adição (+)
--Subtração (-)
--Multiplicação (*)
--Divisão (/)
--Exponenciação (**)
--Resto (%)
+- Adição (+)
+- Subtração (-)
+- Multiplicação (*)
+- Divisão (/)
+- Exponenciação (**)
+- Resto (%)
 
 ```ruby
 
