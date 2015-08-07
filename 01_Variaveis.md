@@ -34,8 +34,6 @@ nome_da_variavel
 
 ######Ruby
 ```ruby
-nome_da_variavel
-
 #Numerico
 var_num = 10
 
