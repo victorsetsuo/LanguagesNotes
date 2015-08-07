@@ -1,4 +1,4 @@
-####Operadores Matematicos:
+####Operadores Matemáticos:
 ---
 ######Ruby
 
