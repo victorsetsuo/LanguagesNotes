@@ -23,8 +23,13 @@ nome_da_variavel
 ```ruby
 nome_da_variavel
 
+#Numerico
 var_num = 10
+
+#Boolean
 var_boolean = true
+
+#String
 var_string = "Ruby"
 
 ```
