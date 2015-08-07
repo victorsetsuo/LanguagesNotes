@@ -2,7 +2,7 @@
 ---
 ######Ruby
 ```ruby
-#Comentario de UMA LINHAS
+#Comentario de UMA LINHA
 
 =begin
 Comentario de MULTIPLAS LINHAS
