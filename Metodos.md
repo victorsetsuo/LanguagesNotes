@@ -3,7 +3,7 @@
 ######Ruby
 
 ```ruby
-#retorna o tamanho da variavel
+# .lenght - retorna o tamanho da variavel
 nome_da_variavel.lenght
 
 #retorna o conteudo da variavel string invertida
