@@ -1,4 +1,5 @@
 ####Declarando Variáveis:
+
 ---
 
 ######JavaScript
@@ -23,6 +24,18 @@ nome_da_variavel
 ```ruby
 nome_da_variavel
 
+```
+
+---
+
+####Tipos de Variáveis:
+
+---
+
+######Ruby
+```ruby
+nome_da_variavel
+
 #Numerico
 var_num = 10
 
@@ -35,5 +48,4 @@ var_string = "Ruby"
 ```
 
 ---
-
 
